@@ -18,5 +18,6 @@ To comprehend the data file, examining this image offers insight into the signif
 ![image](https://github.com/user-attachments/assets/4eb94578-d750-4eb1-9b81-0f19eef54ad6)
 
 
-
+We used different models to predict human activity including LSTM GRM and even 1D CNN.
+We got the best results through the GRU
 
